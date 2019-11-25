@@ -1,0 +1,7 @@
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaDatos\obj\Debug\CapaDatos.pdb

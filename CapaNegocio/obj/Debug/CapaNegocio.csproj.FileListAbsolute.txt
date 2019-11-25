@@ -1,0 +1,9 @@
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\Entidades.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\bin\Debug\Entidades.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\CapaNegocio\obj\Debug\CapaNegocio.pdb

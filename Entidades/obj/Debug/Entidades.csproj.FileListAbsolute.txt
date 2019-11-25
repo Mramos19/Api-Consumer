@@ -1,0 +1,4 @@
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\Entidades\bin\Debug\Entidades.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\Entidades\bin\Debug\Entidades.pdb
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\Entidades\obj\Debug\Entidades.dll
+C:\Users\martin.ramos.VASLATIN\Documents\Visual Studio 2015\Projects\WSIntegratorService\Entidades\obj\Debug\Entidades.pdb
